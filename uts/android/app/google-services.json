@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "466725686767",
+    "project_id": "siak-mhs-azzam",
+    "storage_bucket": "siak-mhs-azzam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466725686767:android:71cd43493db065c05ffa1a",
+        "android_client_info": {
+          "package_name": "com.example.uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkKQ50Au8uKK2JFzYpJ7mx5CoWzpnxagI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
